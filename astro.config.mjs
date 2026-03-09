@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-check & testing
 import { defineConfig } from "astro/config";
 import tailwindcss from "@tailwindcss/vite";
 
