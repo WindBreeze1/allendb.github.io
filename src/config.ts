@@ -47,7 +47,7 @@ skills: ["SAP2000", "MATLAB", "SolidWorks", "Python", "CAD"],
   {
     name: "Teaching Assistant Evaluations",
     description: "Evaluations from students and the professor when I was a teaching assistant at UC San Diego for SE 151A.",
-    link: "/Projects/Student_Evaluations_Reviews.pdf",
+    link: "https://windbreeze1.github.io/allendb.github.io/Projects/Student_Evaluations_Reviews.pdf",
   }
 ],
   experience: [
