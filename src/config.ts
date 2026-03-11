@@ -18,7 +18,7 @@ skills: ["SAP2000", "MATLAB", "SolidWorks", "Python", "CAD"],
       name: "Vibrational Analysis of a Multi Span Bridge",
       description:
         "Utilized MATLAB in conjunction with historical seismic data (1940 El Centro accelerometer record) to perform earthquake analysis.",
-      link: "/public/Projects/Botani_221_TermProject.pdf",
+      link: "https://windbreeze1.github.io/allendb.github.io/Projects/Botani_221_TermProject.pdf",
       skills: ["MATLAB", "Data Analysis", "Python"],
     },
         {
