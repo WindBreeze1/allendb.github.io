@@ -6,7 +6,6 @@ export const siteConfig = {
   social: {
     email: "allendbotani@gmail.com",
     linkedin: "https://www.linkedin.com/in/allendb/",
-    //twitter: "https://x.com/rfitzio",
     github: "https://github.com/WindBreeze1",
   },
 aboutMe: `I’m an engineer with a Master’s degree in Structural Engineering and Computer Science, blending real-world design experience with strong computational and analytical skills. I enjoy solving complex problems, whether that means modeling structures or building efficient technical solutions with code.
